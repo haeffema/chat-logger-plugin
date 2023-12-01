@@ -1,0 +1,4 @@
+name: chat-logger
+version: '0.1'
+main: de.haeffema.chatlogger.Chat_logger
+api-version: '1.20'
